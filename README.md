@@ -16,5 +16,5 @@ A dynamic frontend project that converts text to voice using HTML, CSS, and Java
 - **Tools**: Git, GitHub, IntelliJ IDEA,Enterprise Edition Eclipse and  VS Code
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/mohamed-hadhi-s-321280213/)
+-Contact :9791328276
 - Email: mohamedhadhi23102002@gmail.com
